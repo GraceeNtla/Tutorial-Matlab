@@ -81,3 +81,10 @@
 %         disp(i);
 %     end
 % end
+
+% while
+% n = 0;
+% while n < 10
+%     disp('mengulang');
+%     n = n+1;
+% end
